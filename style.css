@@ -1,0 +1,30 @@
+#calculator {
+	width: 300px;
+	margin: auto;
+	padding: 30px;
+	background-color: #e0ffff;
+	border-radius: 20px;
+	text-align: center;
+	}
+#calculator button {
+	width: 60px;
+	height: 30px;
+	background-color: #ffc0cb;
+	color: #808080;
+	border-style: solid;
+	border-color: #ffdab9;
+	font-size: 20px;
+	margin: 5px;
+	cursor: pointer;
+	border-radius: 10px;
+}     
+#display {
+	width: 200px;
+	height: 30px;
+	background-color: #f8eff1;
+	border-style: solid;
+	border-color: #ffdab9;
+	font-size: 20px; 
+	margin: 5px;
+	border-radius:10px;
+}
